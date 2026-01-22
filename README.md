@@ -1,5 +1,7 @@
 My kinda aesthetic - My kinda to do app.
+
 Pen + Apple = ApplePen
+
 Aesthetic + ToDo = Aesthedo
 
 ## Dependencies
